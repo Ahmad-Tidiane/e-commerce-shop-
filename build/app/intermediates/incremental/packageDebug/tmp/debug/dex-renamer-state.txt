@@ -1,0 +1,4 @@
+#Sun Nov 20 14:55:35 UTC 2022
+base.0=C\:\\Users\\Sosuke Aizen\\Desktop\\sala-App-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
